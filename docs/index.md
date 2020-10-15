@@ -29,7 +29,7 @@ For student participants: You will not be required to make a presentation/lead a
 ---------------------------------------------------------------------------
 
 **Schedule for Fall 2020**
+
 [10/12] Marina Meila -- Introduction to Electoral Geography, Gerrymandering, and detecting gerrymandering, in the Geometry group
 
 
-coming soon
