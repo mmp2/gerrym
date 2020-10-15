@@ -17,13 +17,13 @@ For student participants: You will not be required to make a presentation/lead a
 
 
 **List of suggested topics for Fall 2020**
-Electoral geography, the US census, principles for redistricting
-The mathematics and statistics of gerrymandering, an overview
-Earthmover distances, minimum matching, and optimal transport (OT)
-Optimal transport on graphs. What should be an OT distance between maps?
-Statistical tests for detecting gerrymandering
-Sampling the space of maps
-The Efficiency Gap (EG). Definition and properties.
+  * Electoral geography, the US census, principles for redistricting
+  * The mathematics and statistics of gerrymandering, an overview
+  * Earthmover distances, minimum matching, and optimal transport (OT)
+  * Optimal transport on graphs. What should be an OT distance between maps?
+  * Statistical tests for detecting gerrymandering
+  * Sampling the space of maps
+  * The Efficiency Gap (EG). Definition and properties.
 
 
 ---------------------------------------------------------------------------
