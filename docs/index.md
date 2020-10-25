@@ -32,4 +32,6 @@ For student participants: You will not be required to make a presentation/lead a
 
 [10/12] Marina Meila -- Introduction to Electoral Geography, Gerrymandering, and detecting gerrymandering, in the Geometry group
 
+[/] TBA Mondays 4-5:30 pm approximately every 2 weeks
+
 
